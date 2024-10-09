@@ -1,8 +1,25 @@
-- 👋 Hi, I’m Yuvraj  github.id - @yuvrajzq57 
-- 👀 I’m interested in Web & App Development , Python Programming & Cyber Security related fiels.
-- 📫 How to reach me : email - yuvrajzq57@gmail.com
+# 👋 Hi, I’m Yuvraj (@yuvrajzq57)
 
-<!---
-yuvrajzq57/yuvrajzq57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+I am a passionate developer and cybersecurity enthusiast with a strong interest in:
+- Web & App Development
+- Python Programming
+- Cybersecurity-related fields
+- Cloud Computing (Proficient with **AWS**)
+
+### What I Do
+- 🔧 **Web & Mobile Development:** Building dynamic, responsive, and user-centric applications.
+- 🐍 **Python Programming:** Leveraging Python for automation, data processing, and backend development.
+- 🔐 **Cybersecurity:** Specializing in ethical hacking and offensive security techniques.
+- ☁️ **AWS Expertise:** Skilled in deploying, managing, and scaling applications on Amazon Web Services (AWS).
+
+### My Goals
+- Continuously learning and exploring the latest trends in tech.
+- Contributing to open-source projects.
+- Building tools and solutions that help improve security in the digital world.
+
+### How to Reach Me
+- 📫 Email: yuvrajzq57@gmail.com
+- 💻 [My GitHub](https://github.com/yuvrajzq57)
+
+Feel free to connect or collaborate on exciting projects!
